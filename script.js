@@ -25,4 +25,6 @@ $(function () {
   let tartalom = $(".tartalom").text();
   console.log(tartalom);
   //   document.getElementById("valami").html("Jsben írtam ide")
+
+  $(".table").html("<div></div>");
 });

@@ -1,0 +1,25 @@
+{
+  "receptek": [
+    {
+      "nev": "mákos guba",
+      "elkIdo": "30 perc",
+      "kep": "img/makos_guba.jpg",
+      "hozzavalok": "10db szikkadt kifli, 1liter tej, 1csom vaníliás cukor, 15ek darált mák, 7ek porcukor",
+      "elkeszites": "A mákos guba elkészítéséhez a kifliket 1 cm-es karikákra vágjuk. A tejet a vaníliás cukorral felforraljuk. A kiflikarikákat a forró tejjel leöntjük, majd leszűrjük, és kinyomkodjuk belőle a tejet. Egy nagyobb jénai tálba egy réteg kiflit teszünk, majd porcukorral elkevert darált mákot szórunk rá, megint kiflit és megint mákot teszünk bele, amíg elfogynak a hozzávalók. Ha marad még mák, megszórjuk vele a tetejét is. Ha szeretnénk, akkor 7-8 percre berakhatjuk 180 fokra előmelegített sütőbe. Összemelegítve, sütve is nagyon finom, de ha nem akarjuk sütni, a mákos guba úgyis fogyasztható. "
+    },
+    {
+      "nev": "paprikás krumpli kolbásszal",
+      "elkIdo": "50 perc",
+      "kep": "img/paprikas_krumpli_kolbasszal.jpg",
+      "hozzavalok": "1 kg burgonya (krumpli), 15 dkg kolbász (jó minőségű szárazkolbász), 1 közepes fej vöröshagyma, 2 gerezd fokhagyma, 4 ek olívaolaj, 2 teáskanál fűszerpaprika (őrölt), só ízlés szerint, bors ízlés szerint (frissen őrölt)",
+      "elkeszites": "A megtisztított krumplit felkockázzuk, és a hagymát is apróra felvágjuk. A kolbászt felkarikázzuk. Az olajat megforrósítjuk, beletesszük a hagymát, üvegesre pároljuk, majd levesszük a tűzről. Hozzátesszük a pirospaprikát, elkeverjük, beledobjuk a krumplit, a kolbászkarikákat, az apróra kockázott fokhagymát, pici vizet öntünk alá, és visszatesszük a tűzre. Jól átforgatjuk, megsózzuk, megborsozzuk, és annyi forró vizet öntünk rá, hogy épp ellepje. Lefedjük, és puhára főzzük."
+    },
+    {
+      "nev": "palacsinta",
+      "elkIdo": "35 perc",
+      "kep": "img/palacsinta.jpg",
+      "hozzavalok": "20 dkg liszt, 2 tojás, 3 dl tej, 3 dl szóda, csipet só, 2 ek Vénusz étolaj",
+      "elkeszites": "Felütjük a tojásokat, kicsit felverjük, majd hozzáadjuk a lisztet. Apránként hígítjuk a tejjel és a vízzel, csipet sóval ízesítjük. Az olajat is hozzáadjuk. Forró serpenyőbe öntünk annyi tésztát, hogy ne legyen túl vastag a palacsinta, majd mindkét oldalát pirosra sütjük."
+    }
+  ]
+}

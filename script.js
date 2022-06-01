@@ -15,7 +15,14 @@ $(function () {
   $("img").eq(0).attr("src", "img/motivation.jpg");
   $("img").css({ width: "50%", height: "50%", border: "1px solid gray" });
   $(".tartalom div").css("border", "1px solid gray");
-  $(".tartalom div").toggleClass("kiemel")
+
+  $(".tartalom div").on("click", function () {
+    //az eseményt kiváltó elemre mutat $(this)
+    console.log($(this));
+    $(this).toggleClass("kiemel");
+  });
+
   let tartalom = $(".tartalom").text();
   console.log(tartalom);
+  //   document.getElementById("valami").html("Jsben írtam ide")
 });
